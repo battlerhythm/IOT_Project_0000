@@ -17,4 +17,4 @@
 > - ~/project/h264/
 
 ## For lambda
-need authority to use S3,DynamoDB, Rekognition, SNS
+> Need authority to use S3,DynamoDB, Rekognition, SNS
